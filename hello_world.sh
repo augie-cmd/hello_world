@@ -1,7 +1,6 @@
 #! /bin/bash
 
-# Note: Change file permissions as needed to run script.
-# For UNIX/Linux systems run 'chmod 755 hello_world.sh'
-# before executing the file.
+# Note: Change file permissions as needed to run script,
+# 'chmod 755 hello_world.sh' will work.
 
 echo "Hello world!"
